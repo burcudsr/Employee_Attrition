@@ -3,7 +3,7 @@
 This project focuses on predicting employee attrition using machine learning techniques, developed during the **Kaggle Playground Series - Season 3, Episode 3**. The goal is to identify factors that influence employees' decisions to leave the company, allowing for proactive retention strategies.
 
 ### 🚀 Live Demo
-Explore the interactive prediction model here:**[Employee Attrition Prediction App](https://huggingface.co/spaces/bdaser/Employee_Attrition)**
+Explore the interactive prediction model here: **[Employee Attrition Prediction App](https://huggingface.co/spaces/bdaser/Employee_Attrition)**
 
 ### 📊 Dataset & Preprocessing
 The model was trained on a comprehensive dataset capturing various employee attributes. Key preprocessing steps include:
